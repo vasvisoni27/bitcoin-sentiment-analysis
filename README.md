@@ -31,6 +31,9 @@ Key columns:
 * Closed PnL
 * Fee
 * Timestamp IST
+
+### Dataset Source
+The datasets used in this project were provided as part of the assignment. The original dataset links are included in the assignment instructions and can be accessed from the provided source URLs.
 ---
 
 ## Methodology
